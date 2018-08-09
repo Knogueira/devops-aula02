@@ -1,4 +1,4 @@
 # Atores
-Paola Oliveira
-Fernanda Montinegro
-Nanda Costa
+#Paola Oliveira
+#Fernanda Montinegro
+#Nanda Costa
