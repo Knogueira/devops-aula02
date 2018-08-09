@@ -1,1 +1,4 @@
-# devops-aula02
+# Atores
+Paola Oliveira
+Fernanda Montinegro
+Nanda Costa
