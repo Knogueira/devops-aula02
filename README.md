@@ -1,4 +1,5 @@
 # Atores
 #Paola Oliveira
-#Fernanda Montinegro
+#Paulo Gustavo
 #Nanda Costa
+#Carolina Oliveira
